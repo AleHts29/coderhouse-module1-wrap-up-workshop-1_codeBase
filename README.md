@@ -22,7 +22,7 @@ Crear una colección llamada Cursos con la siguiente estructura:
 
 - title: type string
 - description: tipo string
-- teacherName: type number
+- teacherName: type String
 - students: type array
 
 Todos los campos deben ser requeridos obligatoriamente ({ required: true })
